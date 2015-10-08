@@ -7,6 +7,6 @@
 2. 說明 git commit, git push 差異。
 
 
-## Assignment 10/8 update my TonyK
+## Assignment 10/8 update by TonyK
 
 Checkout file homework.pdf
