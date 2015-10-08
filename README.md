@@ -5,3 +5,8 @@
 1. 說明 git clone, git pull, git checkout 差異。
 
 2. 說明 git commit, git push 差異。
+
+
+## Assignment 10/8 update my TonyK
+
+Checkout file homework.pdf
